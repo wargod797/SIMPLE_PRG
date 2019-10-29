@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 23 15:24:34 2019
+
+@author: sridhar
+"""
 import math
 def cci(a,b,c):
     if (a+b)>c and (b+c)>a and (c+a)>b:
