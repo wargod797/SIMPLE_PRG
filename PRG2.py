@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 23 15:24:34 2019
+
+@author: sridhar
+"""
+
 def nextpri(num):
     if num > 1:
         for i in range(2,num):
