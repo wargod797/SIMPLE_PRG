@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 23 15:24:34 2019
+
+@author: sridhar
+"""
 #Perfect Square
 import math
 x = int(input())
